@@ -1,0 +1,2 @@
+x = null;
+typeof x;
